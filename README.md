@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ![Dashboard-2](nairkivm-dashboard-1.png)
 ![Dashboard-3](nairkivm-dashboard-2.png)
 
-Dashboard bisa diakses pada link [berikut](https://metabase-production-469c.up.railway.app/public/dashboard/c4b5a4b9-1231-4841-9dec-8f00a1c48449). Dashboard ini merupakan hasil akhir dari proyek analitik prediktif untuk memahami dan mengantisipasi tingginya tingkat attrition (karyawan yang keluar) di perusahaan Jaya Jaya Maju. Berdasarkan data yang dianalisis, perusahaan memiliki total 1.058 karyawan, dengan attrition rate aktual sebesar 16.92%, atau setara dengan 179 orang yang telah keluar dalam periode yang dianalisis.
+Dashboard bisa diakses pada link [berikut](https://metabase-production-295c.up.railway.app/public/dashboard/1aa486d2-364b-454e-8907-a4ae4e392bfd). Dashboard ini merupakan hasil akhir dari proyek analitik prediktif untuk memahami dan mengantisipasi tingginya tingkat attrition (karyawan yang keluar) di perusahaan Jaya Jaya Maju. Berdasarkan data yang dianalisis, perusahaan memiliki total 1.058 karyawan, dengan attrition rate aktual sebesar 16.92%, atau setara dengan 179 orang yang telah keluar dalam periode yang dianalisis.
 
 Sementara itu, dari sisi pemodelan prediktif, sistem memperkirakan attrition rate sebesar 14.81% pada 412 karyawan potensial berdasarkan model machine learning menggunakan Support Vector Machine (SVM) dengan performa yang cukup baik (akurasi 89.77%, presisi 96.32%, recall 83.96%, dan F1-score 89.71%). Prediction app bisa diakses dalam link [berikut](https://deploy-app-jaya-jaya-maju-production.up.railway.app/) dan keterangan lebih lengkap bisa dilihat [di sini](./app/README.md).
 

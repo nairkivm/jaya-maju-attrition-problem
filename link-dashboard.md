@@ -1,0 +1,1 @@
+https://metabase-production-295c.up.railway.app/public/dashboard/1aa486d2-364b-454e-8907-a4ae4e392bfd
